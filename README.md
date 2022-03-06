@@ -1,3 +1,2 @@
 # matrix
-Matrix visual effect console
-Useless visual effect
+Matrix useless visual effect in console (Win)
